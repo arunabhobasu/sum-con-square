@@ -1,4 +1,4 @@
-# Project 1 of course COP 5615 : Distributed Operating Systems
+# Project 1 of COP 5615 : Distributed Operating Systems
 ## Sum of Consecutive Squares which is also a perfect square, calculated in distributed fashion using OTP actor model of Gleam
 
 ## To Run the program use the command :
